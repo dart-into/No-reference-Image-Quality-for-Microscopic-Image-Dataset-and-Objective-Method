@@ -13,7 +13,7 @@ the key code:  n7jr
 | CSIQ      | https://s2.smu.edu/~eclarson/csiq.html |
 | SPAQ      | https://github.com/h4nwei/SPAQ |
 | KonIQ      | http://database.mmsp-kn.de/koniq-10k-database.html |
-| AGIQA     |  https://github.com/lcysyzxdxc/AGIQA-3k-Database |
+
 ## Requirements
 - PyTorch=1.7.0
 - Torchvision=0.8.1
